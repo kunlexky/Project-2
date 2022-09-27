@@ -18,6 +18,12 @@
 
 ![Nginx web2](./images/Nginx-web2.PNG)
 
+`PhP with nginx`
+
+![PhP](./images/PhP.PNG)
+
+
+
 
 
 
